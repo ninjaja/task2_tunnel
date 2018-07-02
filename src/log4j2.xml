@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration monitorInterval="3" status="WARN">
+    <properties>
+        <property name="pattern_0">
+            %d{yyyy:MM-dd HH:mm:ss} [%t] %-5level %logger{8} - %msg%n
+        </property>
+        <property name="pattern_1">
+            %d{yyyy:MM-dd HH:mm:ss} [%t] %-5level %logger{8} - %msg%n
+        </property>
+    </properties>
+    <appenders>
+        <File name="FILE" fileName="logs/logging.log" bufferedIO="true">
+            <PatternLayout pattern="${pattern_0}"/>
+        </File>
+        <Console name="CONSOLE" target="SYSTEM_OUT">
+            <PatternLayout pattern="${pattern_1}"/>
+        </Console>
+    </appenders>
+    <loggers>
+        <root level="debug">
+            <appender-ref ref="FILE"/>
+            <appender-ref ref="CONSOLE"/>
+        </root>
+    </loggers>
+</configuration>

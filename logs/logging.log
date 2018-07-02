@@ -1,0 +1,22 @@
+2018:07-02 23:29:41 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - class com.matrizaev.task_tunnel.generator.TrainThreadGenerator: 20 threads started
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - 20 threads started
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #0 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #1 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #2 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #3 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #4 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #5 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #6 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #7 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #8 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #9 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #10 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #11 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #12 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #13 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #14 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #15 WE submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #16 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #17 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #18 EW submitted by executor
+2018:07-02 23:32:06 [main] INFO  com.matrizaev.task_tunnel.generator.TrainThreadGenerator - Train #19 EW submitted by executor
